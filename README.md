@@ -16,5 +16,8 @@ Open **this folder** (`ShubhPortfolioFinal`) in VS Code, then in Terminal run:
 npm.cmd install
 npm.cmd run dev
 ```
+## click here to see 
+`https://shubhh23.github.io/shubh-portfolio/`
+
 
 Open the localhost URL Vite prints, usually `http://localhost:5173/`.
