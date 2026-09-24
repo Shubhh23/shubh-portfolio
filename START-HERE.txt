@@ -1,0 +1,29 @@
+SHUBH PORTFOLIO — FINAL
+
+1. Extract this ZIP.
+2. Open the extracted folder in VS Code.
+3. In VS Code: Terminal > New Terminal.
+4. Run:
+   npm.cmd install
+5. After it finishes, run:
+   npm.cmd run dev
+6. Open the Local URL shown by Vite (usually http://localhost:5173/).
+
+IMPORTANT:
+- package.json is in THIS folder. Do not cd into another folder.
+- If you see "vite is not recognized", run npm.cmd install first.
+- If you see ENOENT package.json, you are in the wrong folder. In the VS Code terminal, run:
+  dir
+  and make sure package.json is listed.
+
+Included:
+- Reference-style 3D hero
+- Cursor-reactive avatar movement
+- Scroll text/depth movement
+- Skills including Python OOP, Advanced Excel, MySQL, SQLite and AI tools
+- DecodeLabs internship certificate
+- BSERC internship + certificate/offer letter
+- Certifications and projects
+
+
+UPDATED: DecodeLabs certificate is cropped to the actual certificate artwork (white outer screenshot border removed). The standalone 'Data Analysis, Research, Productivity & Workflow Automation' skill pill was removed. Avatar/cursor-reactive movement code is unchanged.
